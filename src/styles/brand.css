@@ -34,12 +34,12 @@
 	--accent: 0.95 0 0;
 
 	/* --- Foregrounds (text on light surfaces) --- */
-	--foreground: 0.12 0 0;
-	--card-foreground: 0.12 0 0;
-	--popover-foreground: 0.12 0 0;
-	--secondary-foreground: 0.12 0 0;
+	--foreground: 0.671 0.195 43.6; /* Replit orange #F26207 */
+	--card-foreground: 0.671 0.195 43.6;
+	--popover-foreground: 0.671 0.195 43.6;
+	--secondary-foreground: 0.671 0.195 43.6;
 	--muted-foreground: 0.45 0 0;
-	--accent-foreground: 0.12 0 0;
+	--accent-foreground: 0.671 0.195 43.6;
 
 	/* --- Primary (CTAs, key actions) --- */
 	--primary: 0.12 0 0;
